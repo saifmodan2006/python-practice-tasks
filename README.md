@@ -1,5 +1,3 @@
-# python-practice-tasks
-A collection of beginner-friendly Python practice tasks covering strings, lists, dictionaries, loops, and problem-solving concepts. Perfect for learning and revising core Python skills.
 # Python Practice Tasks
 
 ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
